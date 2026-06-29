@@ -33,15 +33,15 @@ header p {
 }
 
 body.escuro header p {
-  color: #aaaaaa;
+  color: #c9538a;
 }
 
 /* ── Botão de tema ── */
 button {
   margin-top: 14px;
   padding: 8px 18px;
-  background-color: #0d9488;
-  color: #ffffff;
+  background-color: #c0456a;
+  color: rgb(177, 75, 75);
   border: none;
   border-radius: 6px;
   cursor: pointer;
@@ -54,7 +54,7 @@ button:hover {
 
 /* ── Post (article) ── */
 article {
-  background-color: #ffffff;
+  background-color: #bd526d;
   border-radius: 10px;
   padding: 24px;
   margin-bottom: 24px;
